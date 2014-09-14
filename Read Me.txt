@@ -1,0 +1,3 @@
+Multiple Paths are calculated from RRT, and the best one from them is chosen
+
+Blue line Shows the Pruned path, whereas black line shows the path obtained from RRT
